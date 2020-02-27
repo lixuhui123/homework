@@ -102,5 +102,11 @@
     <ClCompile Include="to_string.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="最短无须数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="逆波兰表达式.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
