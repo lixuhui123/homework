@@ -108,5 +108,23 @@
     <ClCompile Include="逆波兰表达式.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="子集.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数组的全排列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="最长路径.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二叉树的右视图.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="公交线路.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="公交线路2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
