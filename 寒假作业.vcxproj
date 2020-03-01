@@ -146,7 +146,9 @@
     <ClCompile Include="数组的全排列.cpp" />
     <ClCompile Include="旋转数组.cpp" />
     <ClCompile Include="最后一个单词.cpp" />
+    <ClCompile Include="最小路径和.cpp" />
     <ClCompile Include="最短无须数组.cpp" />
+    <ClCompile Include="最短的路径.cpp" />
     <ClCompile Include="最长路径.cpp" />
     <ClCompile Include="末尾加一.cpp" />
     <ClCompile Include="源.cpp" />

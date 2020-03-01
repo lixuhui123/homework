@@ -126,5 +126,11 @@
     <ClCompile Include="公交线路2.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="最短的路径.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="最小路径和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
